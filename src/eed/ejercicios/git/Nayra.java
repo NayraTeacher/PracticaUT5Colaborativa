@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package eed.ejercicios.git;
 
@@ -8,6 +8,7 @@ package eed.ejercicios.git;
  *
  */
 public class Nayra {
-	public static String saludo ="Nayra: Los que van a morir te saludan.";
-	public static String despedida = "Nayra: que la fuerza os acompañe.";
+
+    public static String saludo = "Nayra: Los que van a morir te saludan.";
+    public static String despedida = "Nayra: que la fuerza os acompaï¿½e.";
 }
