@@ -19,6 +19,7 @@ public class saludos {
 		
 		System.out.println(Mymi.saludo);
 		System.out.println(Mymi.despedida);
+		
 
 	}
 
