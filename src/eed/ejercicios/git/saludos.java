@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package eed.ejercicios.git;
 
@@ -9,14 +9,16 @@ package eed.ejercicios.git;
  */
 public class saludos {
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println(Nayra.saludo);
-		System.out.println(Nayra.despedida);	
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+        System.out.println(Nayra.saludo);
+        System.out.println(Nayra.despedida);
+        System.out.println(Alexandru.saludo);
+        System.out.println(Alexandru.despedida);
 
-	}
+    }
 
 }
