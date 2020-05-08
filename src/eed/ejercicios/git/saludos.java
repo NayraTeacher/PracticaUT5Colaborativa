@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package eed.ejercicios.git;
 
 /**
@@ -24,6 +22,9 @@ public class saludos {
 		System.out.println(Mikel.saludo);
 		System.out.println(Mikel.despedida);	
 
+    System.out.println(Carlos.saludo);
+		System.out.println(Carlos.despedida);
 	}
 
 }
+
