@@ -16,6 +16,9 @@ public class saludos {
 		// TODO Auto-generated method stub
 		System.out.println(Nayra.saludo);
 		System.out.println(Nayra.despedida);	
+		
+		System.out.println(Mymi.saludo);
+		System.out.println(Mymi.despedida);
 
 	}
 
