@@ -7,7 +7,7 @@ package eed.ejercicios.git;
  * @author Nayra
  *
  */
-public class saludos {
+public class Saludos {
 
 	/**
 	 * @param args
